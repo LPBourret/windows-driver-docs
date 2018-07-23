@@ -10,7 +10,7 @@ keywords:
 - port class drivers WDK audio
 - PortCls WDK audio , adapter drivers
 - audio adapters WDK
-- audio adapters WDK , constructing
+- audio adapters WDK , constructing test
 - adapter drivers WDK audio , constructing
 ms.author: windowsdriverdev
 ms.date: 04/20/2017
